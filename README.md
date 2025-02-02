@@ -4,7 +4,7 @@ Apply for Job Application.
 
 ## 🚀 About Me
 
-I'm a full-stack developer..
+I'm a full-stack developer.
 
 ## Authors
 
